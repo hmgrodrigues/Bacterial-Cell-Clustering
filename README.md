@@ -1,6 +1,6 @@
 # Bacterial-Cell-Clustering
 
-The goal of this Project is to examine a set of bacterial cell images using machine learning techniques, including Feature Extraction, Feature Selection and Clustering Algorithms. 
+The goal of this project is to examine a set of bacterial cell images using Machine Learning techniques, including Feature Extraction, Feature Selection and Clustering Algorithms.
 
 The images/ folder has 563 PNG images taken from a super-resolution fluorescence microscopy photograph of Staphylococcus aureus, a common cause of hospital infections and often resistant to multiple antibiotics.
 
